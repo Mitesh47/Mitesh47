@@ -15,8 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mitesh mor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitesh mor" height="30" width="40" /></a>
-<a href="https://fb.com/mitesh mor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mitesh mor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mitesh-mor-b6491a1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mitesh-mor-b6491a1b4/" height="30" width="40" /></a>
 <a href="https://instagram.com/mitesh_mor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mitesh_mor" height="30" width="40" /></a>
 </p>
 
